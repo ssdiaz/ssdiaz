@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ... Python! 
 - 📚 I have experience in ... HTML, JavaScript, Ruby on Rails, React
 
+Connect with me on LinkedIn! www.linkedin.com/in/samanthasdiaz
 
 <!---
 ssdiaz/ssdiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
