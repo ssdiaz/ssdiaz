@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Sam! [ @ssdiaz ]
+👋 Hi there, I’m Sam! [ @ssdiaz ]
 - 🎓 Flatiron Software Engineering Bootcamp Graduate '22
 - 👀 I’m interested in ... front end web development!
 - 🌱 I’m currently learning ... JavaScript! 
