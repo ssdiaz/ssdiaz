@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Sam! [ @ssdiaz ]
 - 🎓 Flatiron Software Engineering Bootcamp Graduate '22
 - 👀 I’m interested in ... front end web development!
-- 🌱 I’m currently learning ... Python! 
+- 🌱 I’m currently learning ... JavaScript! 
 - 📚 I have experience in ... HTML, JavaScript, Ruby on Rails, React
 
 Connect with me on <a href="https://www.linkedin.com/in/samanthasdiaz/">LinkedIn</a>!
