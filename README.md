@@ -1,6 +1,6 @@
 👋 Hi there, I’m Sam!
 - 🎓 Flatiron Software Engineering Bootcamp Graduate '22
-- 👀 I’m interested in ... front-end web development!
+- 👀 I’m interested in ... full stack or front-end web development! 
 - 🌱 I’m currently learning ... JavaScript! 
 - 📚 I have experience in ... HTML, JavaScript, Ruby on Rails, React
 
