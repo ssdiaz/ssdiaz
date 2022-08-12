@@ -5,7 +5,7 @@
 - 📚 I have experience in ... HTML, JavaScript, Ruby on Rails, React
 
 Connect with me on <a href="https://www.linkedin.com/in/samanthasdiaz/">LinkedIn</a>!
-Check out my <a href="https://ssdiaz.github.io/">portfolio</a>! 
+Check out my <a href="https://samantha-diaz.com">portfolio</a>! 
 
 <!---
 ssdiaz/ssdiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
